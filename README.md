@@ -26,13 +26,13 @@ Submitted to AAAI 2022.
 
 ### 🎉 Publications
 #### 2021
-- Inheritance-guided Hierarchical Assignment for Clinical Automatic Diagnosis. **Yichao Du**, Pengfei Luo, Xudong Hong, Tong Xu, Zhe Zhang, Chao Ren, Yi Zheng, Enhong Chen. ***DASFAA'2021***.
+- Inheritance-guided Hierarchical Assignment for Clinical Automatic Diagnosis. **Yichao Du**, Pengfei Luo, Xudong Hong, Tong Xu, Zhe Zhang, Chao Ren, Yi Zheng, Enhong Chen. ***DASFAA'2021***. 2021: 461-477.
 - Rethinking Zero-shot Neural Machine Translation: From a Perspective of Latent Variables.
 Weizhi Wang, Zhirui Zhang, **Yichao Du**, Boxing Chen, Jun Xie, Weihua Luo. ***EMNLP'2021***, Accepted.
 - Knowledge Powered Cooperative Semantic Fusion for Patent Classification. Zhe Zhang, Tong Xu, Le Zhang, **Yichao Du**, Hui Xiong, and Enhong Chen. ***CICAI'2021***, Accepted. <font color=Red>**(Best Student Paper Finalist)**</font>
 
 #### 2020
-- An Automatic ICD Coding Method for Clinical Records Based on Deep Neural Network. **Yichao Du**, Tong Xu, Jianhui Ma, Enhong Chen, Yi Zheng, Tongzhu Liu, Guixian Tong. ***Big Data Research***, Accepted.
+- An Automatic ICD Coding Method for Clinical Records Based on Deep Neural Network. **Yichao Du**, Tong Xu, Jianhui Ma, Enhong Chen, Yi Zheng, Tongzhu Liu, Guixian Tong. ***Big Data Research***, 6(5), 3-16.
 
 <!-- #### 2019
 - LBBESA: An efficient software‐defined networking load‐balancing scheme based on elevator scheduling algorithm. ***Concurrency and Computation: Practice and Experience***, Accepted. -->
