@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🍻 Welcome stranger
-- 🎓: A Master student in University of Science and Technology of China (USTC) and supervised by Prof [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/). Currently, I work as a research intern at Alibaba DAMO Academy, mentored by [Zhirui Zhang](https://zrustc.github.io/) and [Boxing Chen](https://sites.google.com/site/chenboxing/Home).
+- 🎓: A Master student at University of Science and Technology of China (USTC) and supervised by Prof [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/). Currently, I work as a research intern at Alibaba DAMO Academy, mentored by [Zhirui Zhang](https://zrustc.github.io/) and [Boxing Chen](https://sites.google.com/site/chenboxing/Home).
 - 🎯: Interested in NLP & Data Mining. Recently Focusing on Speech Translation and Machine Translation tasks.
 
 ### 📄 Preprints
