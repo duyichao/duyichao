@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### 📄 Preprints
 - Regularizing End-to-End Speech Translation with Triangular Decomposition Agreement.
 **Yichao Du**, Zhirui Zhang, Weizhi Wang, Boxing Chen, Jun Xie, Tong Xu, Weihua Luo, and Enhong Chen.
-Submitted to AAAI'2022.
+Submitted to AAAI.
 
 ### 🎉 Publications
 #### 2021
