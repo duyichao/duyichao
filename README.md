@@ -1,4 +1,5 @@
 ### Hi there 👋
+Looking for a full-time job as an NLP Algorithm Engineer.
 
 <!--
 **duyichao/duyichao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +18,14 @@ Here are some ideas to get you started:
 
 ### 🍻 Welcome stranger
 - 🎓: A Master student at University of Science and Technology of China (USTC) and supervised by Prof [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/). Currently, I work as a research intern at Alibaba DAMO Academy, mentored by [Zhirui Zhang](https://zrustc.github.io/) and [Boxing Chen](https://sites.google.com/site/chenboxing/Home).
-- 🎯: Interested in NLP & Data Mining. Recently Focusing on Speech Translation and Machine Translation tasks.
+- 🎯: I am working in the field of NLP & Data Mining. My research interests and past experience can be summarized as follows:
+  - Multilingual and Multimodal Translation: End-to-End Speech Translation; Multilingual Neural Machine Translation
+  - Data mining in healthcare: ICD coding; Extreme Multi-Label Classification
+  - Knowledge Graph: Entity Linking
 
 ### 📄 Preprints
-- **Yichao Du**, Zhirui Zhang, Weizhi Wang, Boxing Chen, Jun Xie, Tong Xu, Weihua Luo, and Enhong Chen. Regularizing End-to-End Speech Translation with Triangular Decomposition Agreement. Submitted to AAAI.
+- **Yichao Du**, Zhirui Zhang, Weizhi Wang, Boxing Chen, Jun Xie, Tong Xu, Weihua Luo, and Enhong Chen. Regularizing End-to-End Speech Translation with Triangular Decomposition Agreement. Under Review.
+- {**Yichao Du**, Weizhi Wang}, Zhirui Zhang, Boxing Chen, Jun Xie, Tong Xu, Weihua Luo, and Enhong Chen. Non-Parametric Domain Adaptation for End-to-end  Speech Translation. Under Review.
 
 ### 🎉 Publications
 #### 2021
