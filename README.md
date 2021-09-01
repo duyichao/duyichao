@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 - 🎯: Interested in NLP & Data Mining. Recently Focusing on Speech Translation and Machine Translation tasks.
 
 ### 📄 Preprints
-- Regularizing End-to-End Speech Translation with Triangular Decomposition Agreement.
-**Yichao Du**, Zhirui Zhang, Weizhi Wang, Boxing Chen, Jun Xie, Tong Xu, Weihua Luo, and Enhong Chen.
-Submitted to AAAI.
+- **Yichao Du**, Zhirui Zhang, Weizhi Wang, Boxing Chen, Jun Xie, Tong Xu, Weihua Luo, and Enhong Chen. Regularizing End-to-End Speech Translation with Triangular Decomposition Agreement. Submitted to AAAI.
 
 ### 🎉 Publications
 #### 2021
