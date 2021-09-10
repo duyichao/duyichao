@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 <!-- #### 2019
 - LBBESA: An efficient software‐defined networking load‐balancing scheme based on elevator scheduling algorithm. ***Concurrency and Computation: Practice and Experience***, Accepted. -->
 
-<!-- ### 📄 Preprints
+### 📄 Preprints
 - **Yichao Du**, Zhirui Zhang, Weizhi Wang, Boxing Chen, Jun Xie, Tong Xu, Weihua Luo, and Enhong Chen. Regularizing End-to-End Speech Translation with Triangular Decomposition Agreement. Under Review.
-- {**Yichao Du**, Weizhi Wang}, Zhirui Zhang, Boxing Chen, Jun Xie, Tong Xu, Weihua Luo, and Enhong Chen. Non-Parametric Domain Adaptation for End-to-end  Speech Translation. Under Review. -->
+<!-- - {**Yichao Du**, Weizhi Wang}, Zhirui Zhang, Boxing Chen, Jun Xie, Tong Xu, Weihua Luo, and Enhong Chen. Non-Parametric Domain Adaptation for End-to-end  Speech Translation. Under Review. -->
