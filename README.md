@@ -23,10 +23,6 @@ Here are some ideas to get you started:
   - Data mining in healthcare: ICD coding; Extreme Multi-Label Classification
   - Knowledge Graph: Entity Linking
 
-### 📄 Preprints
-- **Yichao Du**, Zhirui Zhang, Weizhi Wang, Boxing Chen, Jun Xie, Tong Xu, Weihua Luo, and Enhong Chen. Regularizing End-to-End Speech Translation with Triangular Decomposition Agreement. Under Review.
-<!-- - {**Yichao Du**, Weizhi Wang}, Zhirui Zhang, Boxing Chen, Jun Xie, Tong Xu, Weihua Luo, and Enhong Chen. Non-Parametric Domain Adaptation for End-to-end  Speech Translation. Under Review. -->
-
 ### 🎉 Publications
 #### 2021
 - **Yichao Du**, Pengfei Luo, Xudong Hong, Tong Xu, Zhe Zhang, Chao Ren, Yi Zheng, Enhong Chen. Inheritance-guided Hierarchical Assignment for Clinical Automatic Diagnosis. ***DASFAA'2021***. 2021: 461-477.
@@ -38,3 +34,7 @@ Here are some ideas to get you started:
 
 <!-- #### 2019
 - LBBESA: An efficient software‐defined networking load‐balancing scheme based on elevator scheduling algorithm. ***Concurrency and Computation: Practice and Experience***, Accepted. -->
+
+<!-- ### 📄 Preprints
+- **Yichao Du**, Zhirui Zhang, Weizhi Wang, Boxing Chen, Jun Xie, Tong Xu, Weihua Luo, and Enhong Chen. Regularizing End-to-End Speech Translation with Triangular Decomposition Agreement. Under Review.
+- {**Yichao Du**, Weizhi Wang}, Zhirui Zhang, Boxing Chen, Jun Xie, Tong Xu, Weihua Luo, and Enhong Chen. Non-Parametric Domain Adaptation for End-to-end  Speech Translation. Under Review. -->
