@@ -38,3 +38,7 @@ Here are some ideas to get you started:
 ### 📄 Preprints
 - **Yichao Du**, Zhirui Zhang, Weizhi Wang, Boxing Chen, Jun Xie, Tong Xu, Weihua Luo, and Enhong Chen. Regularizing End-to-End Speech Translation with Triangular Decomposition Agreement. Under Review.
 <!-- - {**Yichao Du**, Weizhi Wang}, Zhirui Zhang, Boxing Chen, Jun Xie, Tong Xu, Weihua Luo, and Enhong Chen. Non-Parametric Domain Adaptation for End-to-end  Speech Translation. Under Review. -->
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/duyichao/count.svg" />
+</p>
