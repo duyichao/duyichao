@@ -22,11 +22,14 @@ Here are some ideas to get you started:
   - Multilingual and Multimodal Translation: End-to-End Speech Translation; Multilingual Neural Machine Translation
   - Data mining in healthcare: ICD coding; Extreme Multi-Label Classification
   - Knowledge Graph: Entity Linking
+ 
+### 📰 News
+- Two papers submitted to ARR, about end-to-end speech translation and disentangled representation learning.
 
 ### 🎉 Publications
 #### 2022
 - **Yichao Du**, Zhirui Zhang, Weizhi Wang, Boxing Chen, Jun Xie, Tong Xu, and Enhong Chen. Regularizing End-to-End Speech Translation with Triangular Decomposition Agreement. ***AAAI'2022***, Accepted.
-- 
+
 #### 2021
 - **Yichao Du**, Pengfei Luo, Xudong Hong, Tong Xu, Zhe Zhang, Chao Ren, Yi Zheng, Enhong Chen. Inheritance-guided Hierarchical Assignment for Clinical Automatic Diagnosis. ***DASFAA'2021***. 2021: 461-477.
 - Weizhi Wang, Zhirui Zhang, **Yichao Du**, Boxing Chen, Jun Xie, Weihua Luo. Rethinking Zero-shot Neural Machine Translation: From a Perspective of Latent Variables. ***EMNLP'2021***, Accepted.
