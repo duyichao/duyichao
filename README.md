@@ -24,7 +24,8 @@ Here are some ideas to get you started:
   - Knowledge Graph: Entity Linking
  
 ### 📰 News
-- Two papers submitted to ARR, about end-to-end speech translation and disentangled representation learning.
+- One paper is accepted by AAAI'2022, about end-to-end speech translation!
+- Two papers are submitted to ARR, about end-to-end speech translation and disentangled representation learning.
 
 ### 🎉 Publications
 #### 2022
