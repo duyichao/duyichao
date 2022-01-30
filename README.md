@@ -25,7 +25,6 @@ Here are some ideas to get you started:
  
 ### 📰 What's New?
 - **[2022-12-06]** One paper is accepted by AAAI'2022, about end-to-end speech translation!
-- **[2022-11-15]** Two papers are submitted to ARR, about end-to-end speech translation and disentangled representation learning.
 - **[2021.08.26]** One paper is accepted by EMNLP'2021, about multilingual machine translation!
 
 ### 🎉 Publications
