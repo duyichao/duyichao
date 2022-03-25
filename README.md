@@ -1,5 +1,5 @@
 ### Hi there 👋
-Looking for a full-time job as an NLP Algorithm Engineer.
+<!-- Looking for a full-time job as an NLP Algorithm Engineer. -->
 
 <!--
 **duyichao/duyichao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🍻 Welcome stranger
-- 🎓: A Master student at University of Science and Technology of China (USTC) and supervised by Prof [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/). Currently, I work as a research intern at Alibaba DAMO Academy, mentored by [Zhirui Zhang](https://zrustc.github.io/) and [Boxing Chen](https://sites.google.com/site/chenboxing/Home).
+- 🎓: A Master student at University of Science and Technology of China (USTC) and supervised by Prof [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/). Currently, I work as a research intern at Tencent AI Lab, mentored by [Zhirui Zhang](https://zrustc.github.io/). Prior to that, I was an Research Intern in the Language Technology Lab at Alibaba DAMO Academy.
 - 🎯: I am working in the field of NLP & Data Mining. My research interests and past experience can be summarized as follows:
   - Multilingual and Multimodal Translation: End-to-End Speech Translation; Multilingual Neural Machine Translation
   - Data mining in healthcare: ICD coding; Extreme Multi-Label Classification
