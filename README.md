@@ -17,18 +17,20 @@ Here are some ideas to get you started:
 -->
 
 ### 🍻 Welcome stranger
-- 🎓: A Master's student at University of Science and Technology of China (USTC) and supervised by Prof [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/). Currently, I work as a research intern at Tencent AI Lab, mentored by [Zhirui Zhang](https://zrustc.github.io/). Prior to that, I was a Research Intern in the Language Technology Lab at Alibaba DAMO Academy.
+- 🎓: I am a first year PhD student at the University of Science and Technology of China (USTC), and supervised by Prof [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/). Currently, I work as a research intern at Tencent AI Lab, mentored by [Zhirui Zhang](https://zrustc.github.io/). Prior to that, I was a Research Intern in the Language Technology Lab at Alibaba DAMO Academy.
 - 🎯: I am working in the field of NLP & Data Mining. My research interests and past experience can be summarized as follows:
   - Multilingual and Multimodal Translation: End-to-End Speech Translation; Multilingual Neural Machine Translation
   - Data mining in healthcare: ICD coding; Extreme Multi-Label Classification
   - Knowledge Graph: Entity Linking
  
 ### 📰 What's New?
-- **[2022-12-06]** One paper is accepted by AAAI'2022, about end-to-end speech translation!
+- **[2022-09-13]** One paper is accepted by NeurIPS'2022, about disentangled representation learning!
+- **[2021-12-06]** One paper is accepted by AAAI'2022, about end-to-end speech translation!
 - **[2021.08.26]** One paper is accepted by EMNLP'2021, about multilingual machine translation!
 
 ### 🎉 Publications
 #### 2022
+- Linan Yue, Qi Liu, **Yichao Du**, Yanqing An, Li Wang and Enhong Chen. DARE: Disentanglement-Augmented Rationale Extraction. ***NeurIPS'2022***, Accepted.
 - **Yichao Du**, Zhirui Zhang, Weizhi Wang, Boxing Chen, Jun Xie, Tong Xu, and Enhong Chen. Regularizing End-to-End Speech Translation with Triangular Decomposition Agreement. ***AAAI'2022***, Accepted.
 
 #### 2021
