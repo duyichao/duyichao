@@ -24,12 +24,14 @@ Here are some ideas to get you started:
   - Knowledge Graph: Entity Linking
  
 ### 📰 What's New?
+- **[2022-10-06]** One paper is accepted by EMNLP'2022, about domain adaptation for speech translation!
 - **[2022-09-13]** One paper is accepted by NeurIPS'2022, about disentangled representation learning!
 - **[2021-12-06]** One paper is accepted by AAAI'2022, about end-to-end speech translation!
 - **[2021.08.26]** One paper is accepted by EMNLP'2021, about multilingual machine translation!
 
 ### 🎉 Publications
 #### 2022
+- **Yichao Du**, Weizhi Wang, Zhirui Zhang, Boxing Chen, Tong Xu, Jun Xie, and Enhong Chen. Non-Parametric Domain Adaptation for End-to-end  Speech Translation. ***EMNLP'2022***, Accepted.
 - Linan Yue, Qi Liu, **Yichao Du**, Yanqing An, Li Wang and Enhong Chen. DARE: Disentanglement-Augmented Rationale Extraction. ***NeurIPS'2022***, Accepted.
 - **Yichao Du**, Zhirui Zhang, Weizhi Wang, Boxing Chen, Jun Xie, Tong Xu, and Enhong Chen. Regularizing End-to-End Speech Translation with Triangular Decomposition Agreement. ***AAAI'2022***, Accepted.
 
@@ -44,8 +46,8 @@ Here are some ideas to get you started:
 <!-- #### 2019
 - LBBESA: An efficient software‐defined networking load‐balancing scheme based on elevator scheduling algorithm. ***Concurrency and Computation: Practice and Experience***, Accepted. -->
 
-### 📄 Preprints
-- **Yichao Du**, Weizhi Wang, Zhirui Zhang, Boxing Chen, Tong Xu, Jun Xie, and Enhong Chen. Non-Parametric Domain Adaptation for End-to-end  Speech Translation. Under Review.
+<!-- ### 📄 Preprints -->
+
 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/duyichao/count.svg" />
