@@ -32,23 +32,23 @@ Here are some ideas to get you started:
 
 ### 🎉 Publications
 #### 2023
-- **Yichao Du**, Zhirui Zhang, Bingzhe Wu, Lemao Liu, Tong Xu, and Enhong Chen. **Federated Nearest Neighbor Machine Translation**. ***ICLR'2023***, Accepted.
-- Yuhan Dai, Zhirui Zhang, Qiuzhi Liu, Qu Cui, Weihua Li, **Yichao Du** and Tong Xu. Simple and Scalable Nearest Neighbor Machine Translation. ***ICLR'2023***, Accepted.
+- **Yichao Du**, Zhirui Zhang, Bingzhe Wu, Lemao Liu, Tong Xu, and Enhong Chen. **Federated Nearest Neighbor Machine Translation**. In ***ICLR'2023***.
+- Yuhan Dai, Zhirui Zhang, Qiuzhi Liu, Qu Cui, Weihua Li, **Yichao Du** and Tong Xu. **Simple and Scalable Nearest Neighbor Machine Translation**. In ***ICLR'2023***
 #### 2022
-- **Yichao Du**, Weizhi Wang, Zhirui Zhang, Boxing Chen, Tong Xu, Jun Xie, and Enhong Chen. Non-Parametric Domain Adaptation for End-to-end  Speech Translation. ***EMNLP'2022***, Accepted.
-- Linan Yue, Qi Liu, **Yichao Du**, Yanqing An, Li Wang and Enhong Chen. DARE: Disentanglement-Augmented Rationale Extraction. ***NeurIPS'2022***, Accepted.
-- **Yichao Du**, Zhirui Zhang, Weizhi Wang, Boxing Chen, Jun Xie, Tong Xu, and Enhong Chen. Regularizing End-to-End Speech Translation with Triangular Decomposition Agreement. ***AAAI'2022***, Accepted.
+- **Yichao Du**, Weizhi Wang, Zhirui Zhang, Boxing Chen, Tong Xu, Jun Xie, and Enhong Chen. **Non-Parametric Domain Adaptation for End-to-end  Speech Translation**. In ***EMNLP'2022***.
+- Linan Yue, Qi Liu, **Yichao Du**, Yanqing An, Li Wang and Enhong Chen. **DARE: Disentanglement-Augmented Rationale Extraction**. In ***NeurIPS'2022***.
+- **Yichao Du**, Zhirui Zhang, Weizhi Wang, Boxing Chen, Jun Xie, Tong Xu, and Enhong Chen. **Regularizing End-to-End Speech Translation with Triangular Decomposition Agreement**. In ***AAAI'2022***.
 
 #### 2021
-- **Yichao Du**, Pengfei Luo, Xudong Hong, Tong Xu, Zhe Zhang, Chao Ren, Yi Zheng, Enhong Chen. Inheritance-guided Hierarchical Assignment for Clinical Automatic Diagnosis. ***DASFAA'2021***. 2021: 461-477.
-- Weizhi Wang, Zhirui Zhang, **Yichao Du**, Boxing Chen, Jun Xie, Weihua Luo. Rethinking Zero-shot Neural Machine Translation: From a Perspective of Latent Variables. ***EMNLP'2021***, Accepted.
-- Zhe Zhang, Tong Xu, Le Zhang, **Yichao Du**, Hui Xiong, and Enhong Chen. Knowledge Powered Cooperative Semantic Fusion for Patent Classification.  ***CICAI'2021***, Accepted. <font color=Red>**(Best Student Paper Finalist)**</font>
+- **Yichao Du**, Pengfei Luo, Xudong Hong, Tong Xu, Zhe Zhang, Chao Ren, Yi Zheng, Enhong Chen. **Inheritance-guided Hierarchical Assignment for Clinical Automatic Diagnosis**. In ***DASFAA'2021***.
+- Weizhi Wang, Zhirui Zhang, **Yichao Du**, Boxing Chen, Jun Xie, Weihua Luo. **Rethinking Zero-shot Neural Machine Translation: From a Perspective of Latent Variables**. In ***EMNLP'2021***.
+- Zhe Zhang, Tong Xu, Le Zhang, **Yichao Du**, Hui Xiong, and Enhong Chen. **Knowledge Powered Cooperative Semantic Fusion for Patent Classification**.  In ***CICAI'2021***. <font color=Red>**(Best Student Paper Finalist)**</font>
 
 #### 2020
-- **Yichao Du**, Tong Xu, Jianhui Ma, Enhong Chen, Yi Zheng, Tongzhu Liu, Guixian Tong. An Automatic ICD Coding Method for Clinical Records Based on Deep Neural Network.  ***Big Data Research***, 6(5), 3-16.
+- **Yichao Du**, Tong Xu, Jianhui Ma, Enhong Chen, Yi Zheng, Tongzhu Liu, Guixian Tong. **An Automatic ICD Coding Method for Clinical Records Based on Deep Neural Network**.  In ***Big Data Research***.
 
 <!-- #### 2019
-- LBBESA: An efficient software‐defined networking load‐balancing scheme based on elevator scheduling algorithm. ***Concurrency and Computation: Practice and Experience***, Accepted. -->
+- LBBESA: An efficient software‐defined networking load‐balancing scheme based on elevator scheduling algorithm. In ***Concurrency and Computation: Practice and Experience***. -->
 
 <!-- ### 📄 Preprints -->
 
