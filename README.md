@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <!-- - **[2021.08.26]** One paper is accepted by EMNLP'2021, about multilingual machine translation! -->
 
 ### 🎉 Publications
-#### 2022
+#### 2023
 - **Yichao Du**, Zhirui Zhang, Bingzhe Wu, Lemao Liu, Tong Xu, and Enhong Chen. **Federated Nearest Neighbor Machine Translation**. ***ICLR'2023***, Accepted.
 - Yuhan Dai, Zhirui Zhang, Qiuzhi Liu, Qu Cui, Weihua Li, **Yichao Du** and Tong Xu. Simple and Scalable Nearest Neighbor Machine Translation. ***ICLR'2023***, Accepted.
 #### 2022
