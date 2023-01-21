@@ -24,12 +24,16 @@ Here are some ideas to get you started:
   - Knowledge Graph: Entity Linking
  
 ### 📰 What's New?
+- **[2023-01-21]** Two papers are accepted by ICLR'2023, about domain federated machine translation and efficient kNN-MT!
 - **[2022-10-06]** One paper is accepted by EMNLP'2022, about domain adaptation for speech translation!
 - **[2022-09-13]** One paper is accepted by NeurIPS'2022, about disentangled representation learning!
 - **[2021-12-06]** One paper is accepted by AAAI'2022, about end-to-end speech translation!
-- **[2021.08.26]** One paper is accepted by EMNLP'2021, about multilingual machine translation!
+<!-- - **[2021.08.26]** One paper is accepted by EMNLP'2021, about multilingual machine translation! -->
 
 ### 🎉 Publications
+#### 2022
+- **Yichao Du**, Zhirui Zhang, Bingzhe Wu, Lemao Liu, Tong Xu, and Enhong Chen. **Federated Nearest Neighbor Machine Translation**. ***ICLR'2023***, Accepted.
+- Yuhan Dai, Zhirui Zhang, Qiuzhi Liu, Qu Cui, Weihua Li, **Yichao Du** and Tong Xu. Simple and Scalable Nearest Neighbor Machine Translation. ***ICLR'2023***, Accepted.
 #### 2022
 - **Yichao Du**, Weizhi Wang, Zhirui Zhang, Boxing Chen, Tong Xu, Jun Xie, and Enhong Chen. Non-Parametric Domain Adaptation for End-to-end  Speech Translation. ***EMNLP'2022***, Accepted.
 - Linan Yue, Qi Liu, **Yichao Du**, Yanqing An, Li Wang and Enhong Chen. DARE: Disentanglement-Augmented Rationale Extraction. ***NeurIPS'2022***, Accepted.
