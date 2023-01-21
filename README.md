@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   - Knowledge Graph: Entity Linking
  
 ### 📰 What's New?
-- **[2023-01-21]** Two papers are accepted by ICLR'2023, about domain federated machine translation and efficient kNN-MT!
+- **[2023-01-21]** Two papers are accepted by ICLR'2023, about federated machine translation and efficient kNN-MT!
 - **[2022-10-06]** One paper is accepted by EMNLP'2022, about domain adaptation for speech translation!
 - **[2022-09-13]** One paper is accepted by NeurIPS'2022, about disentangled representation learning!
 - **[2021-12-06]** One paper is accepted by AAAI'2022, about end-to-end speech translation!
