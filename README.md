@@ -17,21 +17,25 @@ Here are some ideas to get you started:
 -->
 
 ### 🍻 Welcome stranger
-- 🎓: I am a first year PhD student at the University of Science and Technology of China (USTC), and supervised by Prof [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/). Currently, I work as a research intern at Tencent AI Lab, mentored by [Zhirui Zhang](https://zrustc.github.io/). Prior to that, I was a Research Intern in the Language Technology Lab at Alibaba DAMO Academy.
+- 🎓: I am a first-year PhD student at the University of Science and Technology of China (USTC), supervised by Professor [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/). Currently, I am working as a research intern at Tencent AI Lab, mentored by [Zhirui Zhang](https://zrustc.github.io/). Prior to that, I worked as a research intern in the Language Technology Lab at Alibaba DAMO Academy.
 - 🎯: I am working in the field of NLP & Data Mining. My research interests and past experience can be summarized as follows:
+  - Pre-trained Language Models: Foundation Model; Multimodal LLM
   - Multilingual and Multimodal Translation: End-to-End Speech Translation; Multilingual Neural Machine Translation
   - Data mining in healthcare: ICD coding; Extreme Multi-Label Classification
   - Knowledge Graph: Entity Linking
  
 ### 📰 What's New?
+- **[2023-07-10]** Our MineTrans speech translation system is accepted by IWSLT'2023, which win the championship in the Speech-to-Speech Translation (End-to-End subtrack).
 - **[2023-01-21]** Two papers are accepted by ICLR'2023, about federated machine translation and efficient kNN-MT!
 - **[2022-10-06]** One paper is accepted by EMNLP'2022, about domain adaptation for speech translation!
 - **[2022-09-13]** One paper is accepted by NeurIPS'2022, about disentangled representation learning!
-- **[2021-12-06]** One paper is accepted by AAAI'2022, about end-to-end speech translation!
-<!-- - **[2021.08.26]** One paper is accepted by EMNLP'2021, about multilingual machine translation! -->
+<!-- - **[2021-12-06]** One paper is accepted by AAAI'2022, about end-to-end speech translation!
+- **[2021.08.26]** One paper is accepted by EMNLP'2021, about multilingual machine translation! -->
 
-### 🎉 Publications
+### 🎉 Publications 
+<!--📚-->
 #### 2023
+- **Yichao Du**, Zhengsheng Guo, Jinchuan Tian, Zhirui Zhang, Xing Wang, Jianwei Yu, Zhaopeng Tu, Tong Xu and  Enhong Chen. **The MineTrans Systems for IWSLT 2023 Offline Speech Translation and Speech-to-Speech Translation Tasks**. In ***IWSLT'2023***.
 - **Yichao Du**, Zhirui Zhang, Bingzhe Wu, Lemao Liu, Tong Xu, and Enhong Chen. **Federated Nearest Neighbor Machine Translation**. In ***ICLR'2023***.
 - Yuhan Dai, Zhirui Zhang, Qiuzhi Liu, Qu Cui, Weihua Li, **Yichao Du** and Tong Xu. **Simple and Scalable Nearest Neighbor Machine Translation**. In ***ICLR'2023***
 #### 2022
@@ -46,6 +50,9 @@ Here are some ideas to get you started:
 
 #### 2020
 - **Yichao Du**, Tong Xu, Jianhui Ma, Enhong Chen, Yi Zheng, Tongzhu Liu, Guixian Tong. **An Automatic ICD Coding Method for Clinical Records Based on Deep Neural Network**.  In ***Big Data Research***.
+
+### 🏆 Competition
+- IWSLT 2023: ranked 1st (English->Chinese) in Speech-to-Speech Translation Track (End-to-End subtrack).
 
 <!-- #### 2019
 - LBBESA: An efficient software‐defined networking load‐balancing scheme based on elevator scheduling algorithm. In ***Concurrency and Computation: Practice and Experience***. -->
