@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   - Knowledge Graph: Entity Linking
  
 ### 📰 What's New?
+- **[2023-10-08]** Three papers are accepted by EMNLP'2023, about theoretical understanding of kNN-MT, interactive machine translation and interventional rationalization!
 - **[2023-07-10]** Our MineTrans speech translation system is accepted by IWSLT'2023, which win the championship in the Speech-to-Speech Translation (End-to-End subtrack).
 - **[2023-01-21]** Two papers are accepted by ICLR'2023, about federated machine translation and efficient kNN-MT!
 - **[2022-10-06]** One paper is accepted by EMNLP'2022, about domain adaptation for speech translation!
