@@ -36,12 +36,13 @@ Here are some ideas to get you started:
 ### 🎉 Publications 
 <!--📚-->
 #### 2023
-- **Yichao Du**, Zhengsheng Guo, Jinchuan Tian, Zhirui Zhang, Xing Wang, Jianwei Yu, Zhaopeng Tu, Tong Xu and  Enhong Chen. **The MineTrans Systems for IWSLT 2023 Offline Speech Translation and Speech-to-Speech Translation Tasks**. In ***IWSLT'2023***.
-- **Yichao Du**, Zhirui Zhang, Bingzhe Wu, Lemao Liu, Tong Xu, and Enhong Chen. **Federated Nearest Neighbor Machine Translation**. In ***ICLR'2023***.
-- Yuhan Dai, Zhirui Zhang, Qiuzhi Liu, Qu Cui, Weihua Li, **Yichao Du** and Tong Xu. **Simple and Scalable Nearest Neighbor Machine Translation**. In ***ICLR'2023***.
 - Xu Huang, Zhirui Zhang, Ruize Gao, **Yichao Du**, Lemao Liu, Guoping Huang, Shuming Shi, Jiajun Chen, Shujian Huang. **IMTLab: An Open-Source Platform for Building, Evaluating, and Diagnosing Interactive Machine Translation Systems**. In ***EMNLP'2023*** <font color=Red>**(Oral, Top3%)**</font>.
 - Ruize Gao, Zhirui Zhang, **Yichao Du**, Lemao Liu, Rui Wang. **Nearest Neighbor Machine Translation is Meta-Optimizer on Output Projection Layer**. In ***EMNLP'2023***.
 - Linan Yue, Qi Liu, Li Wang, Yanqing An, **Yichao Du**, Zhenya Huang. Interventional Rationalization. In ***EMNLP'2023***.
+- **Yichao Du**, Zhengsheng Guo, Jinchuan Tian, Zhirui Zhang, Xing Wang, Jianwei Yu, Zhaopeng Tu, Tong Xu and  Enhong Chen. **The MineTrans Systems for IWSLT 2023 Offline Speech Translation and Speech-to-Speech Translation Tasks**. In ***IWSLT'2023***.
+- **Yichao Du**, Zhirui Zhang, Bingzhe Wu, Lemao Liu, Tong Xu, and Enhong Chen. **Federated Nearest Neighbor Machine Translation**. In ***ICLR'2023***.
+- Yuhan Dai, Zhirui Zhang, Qiuzhi Liu, Qu Cui, Weihua Li, **Yichao Du** and Tong Xu. **Simple and Scalable Nearest Neighbor Machine Translation**. In ***ICLR'2023***.
+
 #### 2022
 - **Yichao Du**, Weizhi Wang, Zhirui Zhang, Boxing Chen, Tong Xu, Jun Xie, and Enhong Chen. **Non-Parametric Domain Adaptation for End-to-end  Speech Translation**. In ***EMNLP'2022*** <font color=Red>**(Oral, Top3%)**</font>.
 - Linan Yue, Qi Liu, **Yichao Du**, Yanqing An, Li Wang and Enhong Chen. **DARE: Disentanglement-Augmented Rationale Extraction**. In ***NeurIPS'2022*** <font color=Red>**(Spotlight, Top8%)**</font>.
